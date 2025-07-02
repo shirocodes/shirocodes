@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wanjiru
 
-I'm a Full Stack Developer on a mission to merge tech and impact — currently building a cervical cancer predictive tool because saving lives with code is my kind of party.  
+I'm a Full Stack Developer on a mission to merge tech and impact — currently building a cervical cancer predictive tool.  
 I used to wrangle project timelines with sticky notes and Gantt charts — now I wrestle Python until it gives me answers.  
 Agile by nature, inspired by adventurous biking and open roads — let's build software that's bold, brilliant, and maybe a little bit magical. 🚴🏽‍♀️✨
 
