@@ -1,27 +1,29 @@
 # 👋 Hi, I’m Wanjiru
 
-I'm a Full Stack Developer on a mission to merge tech and impact — currently building a cervical cancer predictive tool.  
-I used to wrangle project timelines with sticky notes and Gantt charts — now I wrestle Python until it gives me answers.  
-Agile by nature, inspired by adventurous biking and open roads — let's build software that's bold, brilliant, and maybe a little bit magical. 🚴🏽‍♀️✨
+I'm a Full Stack Developer on a mission to merge tech and impact — currently building a cervical cancer predictive tool.
+
+I blend **project management** and **software development** to turn ideas into impactful tools.
 
 ---
 
-## 🛠️ What I’m Working On
+## What I’m Working On
 
--  A predictive CLI tool for cervical cancer screening using Python and SQLAlchemy  
-- Writing dev blogs on [Dev.to](https://dev.to/wanjiru_muchiri) to share what I learn  
-- Exploring FastAPI and OpenAI API integrations  
+- General-purpose web apps? boooooring. I'm building domain-specific AI-powered tools that actually solve stuff.
+
+    Slowly evolving my projects into AI-native data products, one ML model at a time. 
+
+  ***Goal?*** Create interfaces that feel... almost superhuman 
 
 ---
 
-## 📝 My Dev Articles
+## My Dev Articles
 
 - [When Letting go Control Meant React Taking Over: A lesson on Agile and Development](https://dev.to/wanjiru_muchiri)  
 - [typer.prompt() Trap: Handling Empty Inputs Gracefully](https://dev.to/wanjiru_muchiri)  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** Python, JavaScript, SQL, HTML, CSS  
 **Frontend:** React, Bootstrap, Vite, React Router  
@@ -46,7 +48,7 @@ Agile by nature, inspired by adventurous biking and open roads — let's build s
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=shirocodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=shirocodes&theme=dark&hide_border=false) 
