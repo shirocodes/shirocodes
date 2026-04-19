@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Wanjiru
+#  Hi, I’m Shiro
 
-I'm a Full Stack Developer on a mission to merge tech and impact — currently building a cervical cancer predictive tool.
+I'm a Full Stack Developer on a mission to merge tech and impact.
 
 I blend **project management** and **software development** to turn ideas into impactful tools.
 
@@ -64,7 +64,7 @@ I blend **project management** and **software development** to turn ideas into i
 ## 🤝 Let’s Connect
 
 I'm always open to collaboration, feedback, and chatting about data, dev, or your next big idea.  
-📬 [muchiriwanjiruwork@gmail.com](mailto:muchiriwanjiruwork@gmail.com)  
+ [muchiriwanjiruwork@gmail.com](mailto:muchiriwanjiruwork@gmail.com)  
 🐙 [GitHub](https://github.com/shirocodes) • 📝 [Dev.to](https://dev.to/wanjiru_muchiri)
 
 ---
